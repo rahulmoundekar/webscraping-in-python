@@ -80,3 +80,8 @@
      ```
 	   python WebsiteScrap.py
      ```
+  - create clone in you system just execute this file
+  	```
+	1} create virtualenv and just type below command
+	2} pip install -r .\requirements.txt
+	```
